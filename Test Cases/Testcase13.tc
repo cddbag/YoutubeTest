@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>홈 > 로그인 버튼 노출</description>
+   <name>Testcase13</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2366b44-cdd9-4b39-9409-affb2d5033d3</testCaseGuid>
+</TestCaseEntity>
