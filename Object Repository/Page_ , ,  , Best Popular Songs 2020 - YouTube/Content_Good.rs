@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Content_Good</name>
+   <tag></tag>
+   <elementGuidId>376074e2-a306-4729-826f-47adc2f81ac2</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>yt-icon.style-scope.ytd-toggle-button-renderer</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;menu-container&quot;)/div[@id=&quot;menu&quot;]/ytd-menu-renderer[@class=&quot;style-scope ytd-video-primary-info-renderer&quot;]/div[@id=&quot;top-level-buttons&quot;]/ytd-toggle-button-renderer[@class=&quot;style-scope ytd-menu-renderer force-icon-button style-text&quot;]/a[@class=&quot;yt-simple-endpoint style-scope ytd-toggle-button-renderer&quot;]/yt-icon-button[@id=&quot;button&quot;]/button[@id=&quot;button&quot;]/yt-icon[@class=&quot;style-scope ytd-toggle-button-renderer&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='button']/yt-icon)[42]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-scope ytd-toggle-button-renderer</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-container&quot;)/div[@id=&quot;menu&quot;]/ytd-menu-renderer[@class=&quot;style-scope ytd-video-primary-info-renderer&quot;]/div[@id=&quot;top-level-buttons&quot;]/ytd-toggle-button-renderer[@class=&quot;style-scope ytd-menu-renderer force-icon-button style-text&quot;]/a[@class=&quot;yt-simple-endpoint style-scope ytd-toggle-button-renderer&quot;]/yt-icon-button[@id=&quot;button&quot;]/button[@id=&quot;button&quot;]/yt-icon[@class=&quot;style-scope ytd-toggle-button-renderer&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//button[@id='button']/yt-icon)[42]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='실시간 스트리밍 시작일: 2020. 2. 22.'])[1]/following::yt-icon[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[34]/following::yt-icon[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-toggle-button-renderer/a/yt-icon-button/button/yt-icon</value>
+   </webElementXpaths>
+</WebElementEntity>

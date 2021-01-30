@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Content_Report</name>
+   <tag></tag>
+   <elementGuidId>b3e4ffa6-6d88-4838-8d05-d333656ce126</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>yt-formatted-string.style-scope.ytd-menu-navigation-item-renderer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//paper-listbox[@id='items']/ytd-menu-navigation-item-renderer/a/paper-item/yt-formatted-string</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-formatted-string</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-scope ytd-menu-navigation-item-renderer</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>신고</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/ytd-app[1]/ytd-popup-container[@class=&quot;style-scope ytd-app&quot;]/iron-dropdown[@class=&quot;style-scope ytd-popup-container&quot;]/div[@id=&quot;contentWrapper&quot;]/ytd-menu-popup-renderer[@class=&quot;style-scope ytd-popup-container&quot;]/paper-listbox[@id=&quot;items&quot;]/ytd-menu-navigation-item-renderer[@class=&quot;style-scope ytd-menu-popup-renderer&quot;]/a[@class=&quot;yt-simple-endpoint style-scope ytd-menu-navigation-item-renderer&quot;]/paper-item[@class=&quot;style-scope ytd-menu-navigation-item-renderer&quot;]/yt-formatted-string[@class=&quot;style-scope ytd-menu-navigation-item-renderer&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//paper-listbox[@id='items']/ytd-menu-navigation-item-renderer/a/paper-item/yt-formatted-string</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='원인 알아보기'])[1]/following::yt-formatted-string[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='동영상 중단 현상이 발생합니까?'])[1]/following::yt-formatted-string[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NaN / undefined'])[2]/preceding::yt-formatted-string[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::yt-formatted-string[6]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='신고']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-menu-navigation-item-renderer/a/paper-item/yt-formatted-string</value>
+   </webElementXpaths>
+</WebElementEntity>

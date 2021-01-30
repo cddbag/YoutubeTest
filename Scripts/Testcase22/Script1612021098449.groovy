@@ -19,11 +19,13 @@ WebUI.openBrowser('youtube.com')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Page_YouTube/Main_BoxTap'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Page_YouTube/Home_RandomContent'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Page_ - YouTube/Box_LoginButton'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Page_ , ,  , Best Popular Songs 2020 - YouTube/Content_More'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('Page_YouTube/Common_Login'), 0)
+WebUI.click(findTestObject('Page_ , ,  , Best Popular Songs 2020    100     - YouTube/Content_Report'))
+
+WebUI.verifyElementPresent(findTestObject('Page_YouTube/Main_Login'), 0)
 
 WebUI.closeBrowser()
 

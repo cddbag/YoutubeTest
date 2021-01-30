@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Content_Subscribe</name>
+   <tag></tag>
+   <elementGuidId>f8382b7c-92f9-4034-a646-c57a15a14b82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ytd-button-renderer.style-scope.ytd-video-secondary-info-renderer.style-destructive.size-default > a.yt-simple-endpoint.style-scope.ytd-button-renderer > #button > #text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//yt-formatted-string[@id='text'])[42]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-formatted-string</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-scope ytd-button-renderer style-destructive size-default</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>구독</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;meta-contents&quot;)/ytd-video-secondary-info-renderer[@class=&quot;style-scope ytd-watch-flexy&quot;]/div[@id=&quot;container&quot;]/div[@id=&quot;top-row&quot;]/div[@id=&quot;subscribe-button&quot;]/ytd-button-renderer[@class=&quot;style-scope ytd-video-secondary-info-renderer style-destructive size-default&quot;]/a[@class=&quot;yt-simple-endpoint style-scope ytd-button-renderer&quot;]/paper-button[@id=&quot;button&quot;]/yt-formatted-string[@id=&quot;text&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//yt-formatted-string[@id='text'])[42]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//paper-button[@id='button']/yt-formatted-string)[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Korea Acoustic'])[3]/following::yt-formatted-string[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://youtu.be/6MyHdz_MW3Y'])[1]/preceding::yt-formatted-string[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='간략히'])[1]/preceding::yt-formatted-string[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ytd-button-renderer/a/paper-button/yt-formatted-string</value>
+   </webElementXpaths>
+</WebElementEntity>

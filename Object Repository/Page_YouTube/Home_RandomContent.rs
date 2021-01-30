@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Home_RandomContent</name>
+   <tag></tag>
+   <elementGuidId>f09bff52-f4f2-4f54-8945-cf17456e5184</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#video-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/yt-formatted-string</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-formatted-string</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>video-title</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-scope ytd-rich-grid-media</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>잔잔한 팝송, 듣기좋은팝송, 부드러운 팝송, Best Popular Songs 2020 게시자: Korea Acoustic 스트리밍 시간: 11개월 전 7시간 4분 조회수 2,327,046회</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>잔잔한 팝송, 듣기좋은팝송, 부드러운 팝송, Best Popular Songs 2020</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-manager&quot;)/ytd-browse[@class=&quot;style-scope ytd-page-manager&quot;]/ytd-two-column-browse-results-renderer[@class=&quot;style-scope ytd-browse grid grid-disabled&quot;]/div[@id=&quot;primary&quot;]/ytd-rich-grid-renderer[@class=&quot;style-scope ytd-two-column-browse-results-renderer&quot;]/div[@id=&quot;contents&quot;]/ytd-rich-item-renderer[@class=&quot;style-scope ytd-rich-grid-renderer&quot;]/div[@id=&quot;content&quot;]/ytd-rich-grid-media[@class=&quot;style-scope ytd-rich-item-renderer&quot;]/div[@id=&quot;dismissable&quot;]/div[@id=&quot;details&quot;]/div[@id=&quot;meta&quot;]/h3[@class=&quot;style-scope ytd-rich-grid-media&quot;]/a[@id=&quot;video-title-link&quot;]/yt-formatted-string[@id=&quot;video-title&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//yt-formatted-string[@id='video-title']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='video-title-link']/yt-formatted-string</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='목록에 추가'])[1]/following::yt-formatted-string[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Korea Acoustic'])[1]/preceding::yt-formatted-string[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='잔잔한 팝송, 듣기좋은팝송, 부드러운 팝송, Best Popular Songs 2020']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/yt-formatted-string</value>
+   </webElementXpaths>
+</WebElementEntity>

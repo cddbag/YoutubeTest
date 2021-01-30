@@ -19,11 +19,11 @@ WebUI.openBrowser('youtube.com')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Page_YouTube/Main_BoxTap'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Page_YouTube/Home_RandomContent'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Page_ - YouTube/Box_LoginButton'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Page_ 15 -      2km - YouTube/Content_Share'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementPresent(findTestObject('Page_YouTube/Common_Login'), 0)
+WebUI.verifyElementPresent(findTestObject('Page_ 15 -      2km - YouTube/Content_Share_SNS'), 0)
 
 WebUI.closeBrowser()
 
